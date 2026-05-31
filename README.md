@@ -1,4 +1,4 @@
-- Hi, I’m @tilellibek
+- Hi, I’m tilelli bektache
 - I’m passionate about Data Science, Artificial Intelligence, and Computer Vision
 - How to reach me: tilellibektache.pro@gmail.com
 
